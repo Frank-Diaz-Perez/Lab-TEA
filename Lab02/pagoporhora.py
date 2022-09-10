@@ -1,0 +1,5 @@
+# Tendencias e Innovacion en Tecnologia Agricola (TEA)
+horas= input ("¿Cuantas horas trabajo?")
+valor= input ("¿Cual es el valor por hora?")
+Total= (horas + valor)
+print ("el total es: " ,Total)
