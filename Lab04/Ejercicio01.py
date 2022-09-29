@@ -6,11 +6,11 @@ while True:
          numero = input("Ingrese un número: ")
          if (numero == "fin"):
             break
-         contador = contador + 1 
+         contador = contador + 1
          suma = suma + int(numero)
 
     except:
-        print("Entrada inválida")
+        print("Dato erróneo")
 
 print("contador", contador)
 print("suma", suma)
